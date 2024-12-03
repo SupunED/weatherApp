@@ -23,5 +23,5 @@ Interactive UI: The weather information updates instantly when a city is selecte
 ## Setup Instructions
 - API Key: To get weather data, you will need an API key from OpenWeatherMap. Replace API_KEY in the config.js file with your personal API key.
 Local Setup: Open the index.html in your browser to run the app locally.
-
+## Demo link - https://youtu.be/n2lWacZZryI?si=qLWXaBYJAJJS0O1c
 ![Screenshot 1](Capture.PNG)
